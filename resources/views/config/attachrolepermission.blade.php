@@ -1,0 +1,2 @@
+<a href="{{url('attachpr/'.$role->id)}}" class="btn btn-warning"><i class="fa fa-btn fa-pencil"></i></a>&nbsp;
+<a href="{{url('detachpr/'.$role->id)}}" class="btn btn-danger"><i class="fa fa-btn fa-trash"></i></a>

@@ -1,0 +1,2 @@
+<a href="{{url('attachru/'.$role->id)}}" class="btn btn-warning"><i class="fa fa-btn fa-pencil"></i></a>&nbsp;
+<a href="{{url('detachru/'.$role->id)}}" class="btn btn-danger"><i class="fa fa-btn fa-trash"></i></a>
